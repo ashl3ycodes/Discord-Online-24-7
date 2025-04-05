@@ -14,11 +14,11 @@ You are solely responsible for how you use this software. Proceed at your own di
 > (IF YOU DON'T KNOW HOW TO GET IT, YOU SHOULDN'T BE USING THIS)
 
 ## ✅ ⦁ How to use it?
-### Install the dependencies from package.json using any JavaScript package manager (for example, yarn):
+### Install the dependencies from `package.json` using any JavaScript package manager (for example, yarn):
 ```shell
 yarn install
 ```
-### Rename the .env.example file to .env and fill in the variables:
+### Rename the `.env.example` file to `.env` and fill in the variables:
 `DISCORD_OAUTH_TOKEN`:  Your Discord token  
 `STATUS`:  Can be one of the following: online, idle, dnd, invisible  
 `CUSTOM_STATUS_TEXT`: Your custom status message — if left empty, you won’t have a custom status, duh!
