@@ -1,0 +1,22 @@
+{
+	"name": "discord-online-24-7",
+	"version": "1.0.0",
+	"description": "A simple script that keeps a Discord account active 24/7, written in javascript.",
+	"homepage": "https://github.com/ashl3ycodes/Discord-Online-24-7",
+	"bugs": {"url": "https://github.com/ashl3ycodes/Discord-Online-24-7/issues"},
+	"license": "AGPL-3.0-only",
+	"author": {
+		"name": "ashl3ycodes",
+		"url": "https://github.com/ashl3ycodes"
+	},
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"private": true,
+	"dependencies": {
+		"dotenv": "^16.4.7",
+		"node-fetch": "^2.7.0",
+		"ws": "^8.18.1"
+	}
+}
