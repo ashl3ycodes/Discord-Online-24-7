@@ -9,11 +9,17 @@ You are solely responsible for how you use this software. Proceed at your own di
 
 ## ❔ ⦁ What do you need to use it?
 - Node.js.
+- Git.
 - Any Javascript package manager.
-- Your Discord Token
+- Your Discord Token.
 > (IF YOU DON'T KNOW HOW TO GET IT, YOU SHOULDN'T BE USING THIS)
 
 ## ✅ ⦁ How to use it?
+### Clone the repository and enter the folder.
+```shell
+git clone https://github.com/ashl3ycodes/Discord-Online-24-7
+```
+
 ### Install the dependencies from `package.json` using any JavaScript package manager (for example, yarn):
 ```shell
 yarn install
